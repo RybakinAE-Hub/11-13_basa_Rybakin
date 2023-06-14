@@ -2,9 +2,9 @@
 
 ## Модуль 11. Системы хранения и передачи данных
 
-11.1. [Базы данных, их типы](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/11-1.md). На проверку
+11.1. [Базы данных, их типы](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/11-1.md). Выполненно
 
-11.2. [Кеширование Redis/memcached](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/11-2.md). На проверку
+11.2. [Кеширование Redis/memcached](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/11-2.md). Выполненно
 
 11.3. [ELK](https://github.com/netology-code/sdb-homeworks/blob/main/11-03.md).
 
@@ -13,7 +13,7 @@
 
 ## Модуль 12. Реляционные базы данных
 
-12.1. [Базы данных](https://github.com/netology-code/sdb-homeworks/blob/main/12-01.md).
+12.1. [Базы данных](https://github.com/netology-code/sdb-homeworks/blob/main/12-01.md). На проверку
 
 12.2. [Работа с данными (DDL/DML)](https://github.com/netology-code/sdb-homeworks/blob/main/12-02.md).
 
