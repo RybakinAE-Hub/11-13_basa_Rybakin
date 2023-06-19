@@ -19,7 +19,7 @@
 
 12.3. [SQL. Часть 1](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-3.md). На проверку
 
-12.4. [SQL. Часть 2](https://github.com/netology-code/sdb-homeworks/blob/main/12-04.md).
+12.4. [SQL. Часть 2](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-4.md). В работе
 
 12.5. [Индексы](https://github.com/netology-code/sdb-homeworks/blob/main/12-05.md).
 
