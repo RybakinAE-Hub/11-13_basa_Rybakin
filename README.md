@@ -13,11 +13,11 @@
 
 ## Модуль 12. Реляционные базы данных
 
-12.1. [Базы данных](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-1.md)). На проверку
+12.1. [Базы данных](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-1.md)). Выполнено
 
 12.2. [Работа с данными (DDL/DML)](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-2.md)). Выполнено
 
-12.3. [SQL. Часть 1](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-3.md). На проверку
+12.3. [SQL. Часть 1](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-3.md). Выполнено
 
 12.4. [SQL. Часть 2](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-4.md). На проверку
 
