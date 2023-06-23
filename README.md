@@ -21,9 +21,9 @@
 
 12.4. [SQL. Часть 2](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-4.md). Выполнено
 
-12.5. [Индексы](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-5.md). На проверку
+12.5. [Индексы](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-5.md). Выполнено
 
-12.6. [Репликация и масштабирование. Часть 1](https://github.com/netology-code/sdb-homeworks/blob/main/12-06.md).
+12.6. [Репликация и масштабирование. Часть 1](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-6.md). В работе
 
 12.7. [Репликация и масштабирование. Часть 2](https://github.com/netology-code/sdb-homeworks/blob/main/12-07.md).
 
