@@ -6,7 +6,7 @@
 
 11.2. [Кеширование Redis/memcached](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/11-2.md). Выполненно
 
-11.3. [ELK](https://github.com/netology-code/sdb-homeworks/blob/main/11-03.md).
+11.3. [ELK](https://github.com/netology-code/sdb-homeworks/blob/main/11-03.md). В работе
 
 11.4. [Очереди RabbitMQ](https://github.com/netology-code/sdb-homeworks/blob/main/11-04.md).
 
@@ -34,7 +34,7 @@
 
 ## Модуль 13. Информационная безопасность
 
-13.1. [Уязвимости и атаки на информационные системы](https://github.com/netology-code/sdb-homeworks/blob/main/13-01.md).
+13.1. [Уязвимости и атаки на информационные системы](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/13-1.md). На проверку
 
 13.2. [Защита хоста](https://github.com/netology-code/sdb-homeworks/blob/main/13-02.md).
 
