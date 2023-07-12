@@ -36,7 +36,7 @@
 
 13.1. [Уязвимости и атаки на информационные системы](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/13-1.md). Выполнено
 
-13.2. [Защита хоста](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/13-2.md). В работе
+13.2. [Защита хоста](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/13-2.md). На проверку
 
 13.3. [Защита сети](https://github.com/netology-code/sdb-homeworks/blob/main/13-03.md).
 
