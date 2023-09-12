@@ -6,7 +6,7 @@
 
 11.2. [Кеширование Redis/memcached](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/11-2.md). Выполненно
 
-11.3. [ELK](https://github.com/netology-code/sdb-homeworks/blob/main/11-03.md). В работе
+11.3. [ELK](https://github.com/netology-code/sdb-homeworks/blob/main/11-03.md). На проверку
 
 11.4. [Очереди RabbitMQ](https://github.com/netology-code/sdb-homeworks/blob/main/11-04.md).
 
