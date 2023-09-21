@@ -25,7 +25,7 @@
 
 12.6. [Репликация и масштабирование. Часть 1](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-6.md). В работе
 
-12.7. [Репликация и масштабирование. Часть 2](https://github.com/netology-code/sdb-homeworks/blob/main/12-07.md).
+12.7. [Репликация и масштабирование. Часть 2](https://github.com/pam3ec84/11-13_basa_Rybakin/blob/master/12-7.md). В работе
 
 12.8. [Резервное копирование](https://github.com/netology-code/sdb-homeworks/blob/main/12-08.md).
 
